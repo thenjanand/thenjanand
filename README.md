@@ -24,8 +24,8 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I aspire to work as a Software Engineer and contributing to frontend and backend for building web applications.
+I am a Cloud Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- :telescope: I love to work on C;pud Platforms such AWS, Ms Azure, GCP and OCI for building and deploying applications.
 
 - :seedling: Exploring Technical Content Writing.
 
