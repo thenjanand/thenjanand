@@ -25,7 +25,7 @@
 
 ### :woman_technologist: About Me :
 I am a Cloud Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I love to work on C;pud Platforms such AWS, Ms Azure, GCP and OCI for building and deploying applications.
+- :telescope: I love to work on Clpud Platforms such AWS, Ms Azure, GCP and OCI for building and deploying applications.
 
 - :seedling: Exploring Technical Content Writing.
 
